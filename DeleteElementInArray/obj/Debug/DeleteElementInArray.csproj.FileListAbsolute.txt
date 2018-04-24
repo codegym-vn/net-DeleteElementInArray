@@ -1,0 +1,5 @@
+D:\CodeGYM\8.Mảng\Bài tập\DeleteElementToArray\DeleteElementToArray\DeleteElementToArray\bin\Debug\DeleteElementToArray.exe.config
+D:\CodeGYM\8.Mảng\Bài tập\DeleteElementToArray\DeleteElementToArray\DeleteElementToArray\bin\Debug\DeleteElementToArray.exe
+D:\CodeGYM\8.Mảng\Bài tập\DeleteElementToArray\DeleteElementToArray\DeleteElementToArray\bin\Debug\DeleteElementToArray.pdb
+D:\CodeGYM\8.Mảng\Bài tập\DeleteElementToArray\DeleteElementToArray\DeleteElementToArray\obj\Debug\DeleteElementToArray.exe
+D:\CodeGYM\8.Mảng\Bài tập\DeleteElementToArray\DeleteElementToArray\DeleteElementToArray\obj\Debug\DeleteElementToArray.pdb
